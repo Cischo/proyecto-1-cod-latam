@@ -76,7 +76,6 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* padding: 16px; */
     height: 90px;
     width: 100%;
     position: fixed;
@@ -87,7 +86,6 @@ header{
 }
 header nav{
     display: flex;
-    justify-content: space-evenly;
     width: 250px;
 }
 .logo{
@@ -99,10 +97,10 @@ ul#menu{
     font-weight: bolder;
 }
 li.menu-item a{
-    display: flex;
-    padding: 20px;
+    padding: 30px;
 }
                                 /*Estilos del main-section#inicio*/
+
 section{
     display: flex;
     flex-direction: column;
@@ -161,8 +159,6 @@ ul.menu-contacto{
     align-items: center;
 }
 .redes{
-    display: flex;
-    align-items: center;
     margin: 30px;
 }
 .red{
