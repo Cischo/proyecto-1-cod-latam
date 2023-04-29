@@ -102,8 +102,6 @@ li.menu-item a{
     display: flex;
     padding: 20px;
 }
-
-
                                 /*Estilos del main-section#inicio*/
 section{
     display: flex;
@@ -166,22 +164,21 @@ ul.menu-contacto{
     display: flex;
     align-items: center;
     margin: 30px;
-
 }
 .red{
     width: 65px;
     height: 65px;
-    
 }
                                             /* Estilos del footer */
 footer{
     display: flex;
     width: 100%;
     height: 90px;
-    background-color: #af599e;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+    background-color: #af599e;
 }
 footer a{
-   color: #fbfbfb;
+    color: #fbfbfb;
+    padding-bottom: 23px;
 }
